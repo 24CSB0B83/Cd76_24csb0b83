@@ -1,0 +1,5 @@
+{
+  "name": "NL-Query: Compiler Error Interface",
+  "description": "A Natural Language Query Interface for interpreting and explaining compiler errors using a rule-based system. Developed by Varthyavath Lavanya (24CSB0B83-B).",
+  "requestFramePermissions": []
+}
